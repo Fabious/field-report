@@ -27,14 +27,16 @@ On pourra créer sa propre interface Minecraft en Javascript -> HYPE
 
 Engineering Manager at Netflix
 
+Comment typer en JS, elle nous montre Flow, mais va uniquement montrer des exemples Typescript
+
 Elle rappele les défauts de JS :
 - On tombe tout le temps sur l'erreur undefined, "Define undefined as a function" (ça a bien fait rire la salle)
 - NaN is a number xD
 
 Elle nous donne des conseils :
-Lower cardinality = lower bugs, ce qui peut être achevé avec le typing
-Be precise! (with types)
-Be pragmatic
+- Lower cardinality = lower bugs, ce qui peut être achevé avec le typing
+- Be precise! (with types)
+- Be pragmatic
 
 Complexe mais très bien !
 
