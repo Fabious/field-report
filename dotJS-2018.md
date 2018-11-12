@@ -8,7 +8,7 @@ Nous avons le droit en avant première aux résultats de 2018 :
 - React et vue plaisent au développeurs et sont contents de ces frameworks
 - Angular beaucoup moins, beaucoup veulent switch de framework après un projet sous Angular
 
-Très bonne conf d'intro pour situer où en est Javascritp
+Très bonne conf d'intro pour situer où en est Javascript
 
 ## Tobias Ahlin - Minecraft
 
