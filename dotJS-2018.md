@@ -44,10 +44,13 @@ On ne présente plus John Papa
 
 Il a fait un projet avec les 3 grands frameworks :
 https://github.com/johnpapa/heroes-react
+
 https://github.com/johnpapa/heroes-vue
+
 https://github.com/johnpapa/heroes-angular
 
 Il faut "feel" quel framework nous plaît le plus
+
 Il a une grosse montre
 
 There is no best framework
